@@ -1,3 +1,7 @@
+// For l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] and k = 3, the output should be
+// reverseNodesInKGroups(l, k) = [3, 2, 1, 6, 5, 4, 9, 8, 7, 10, 11].
+
+
 // Singly-linked lists are already defined with this interface:
 // template<typename T>
 // struct ListNode {
